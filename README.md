@@ -1,7 +1,6 @@
  
 > Contributions, including issues and pull requests, should be made to the main Kubernetes repository: [https://github.com/Unity-Billal-mesloub/kubernetes](https://github.com/Unity-Billal-mesloub/kubernetes).  
 > This repository is read-only for importing, and not used for direct contributions.  
-> See [CONTRIBUTING.md](./CONTRIBUTING.md) for more details.
 
 # cloud-provider
 
