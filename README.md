@@ -1,5 +1,5 @@
-> ⚠️ **This is an automatically published [staged repository](https://git.k8s.io/kubernetes/staging#external-repository-staging-area) for Kubernetes**.   
-> Contributions, including issues and pull requests, should be made to the main Kubernetes repository: [https://github.com/kubernetes/kubernetes](https://github.com/kubernetes/kubernetes).  
+ 
+> Contributions, including issues and pull requests, should be made to the main Kubernetes repository: [https://github.com/Unity-Billal-mesloub/kubernetes](https://github.com/Unity-Billal-mesloub/kubernetes).  
 > This repository is read-only for importing, and not used for direct contributions.  
 > See [CONTRIBUTING.md](./CONTRIBUTING.md) for more details.
 
@@ -25,7 +25,7 @@ with the HEAD of this repository.
 ## Where does it come from?
 
 `cloud-provider` is synced from
-https://github.com/kubernetes/kubernetes/blob/master/staging/src/k8s.io/cloud-provider.
+https://github.com/Unity-Billal-mesloub/kubernetes/blob/main/staging/src/k8s.io/cloud-provider.
 Code changes are made in that location, merged into k8s.io/kubernetes and
 later synced here.
 
